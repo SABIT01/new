@@ -1,0 +1,21 @@
+.header {
+    width: 200px;
+    margin: 0 auto;
+}
+
+input {
+    width: 210PX;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 5px;
+    height: 50px;
+    width: 45px;
+    text-align: center;
+    /* margin: 0 auto; */
+    /* gap: 5px; */
+    /* margin-bottom: 5px; */
+    margin-left: 2px;
+}
